@@ -21,8 +21,8 @@ converted for output.
 
 ## Authors
 
-* Grace Effiong <[rubylena](github.com/rubylena)
-* Chidozie Ukah <[dozonalx](github.com/dozonalx)
+* Grace Effiong <[rubylena](https://github.com/rubylena)
+* Chiedozie Ukah <[dozonalx](https://github.com/dozonalx)
 
 <p align="center">
   <img src="https://i.ibb.co/FJyysxq/printf.png" alt="printf logo">
